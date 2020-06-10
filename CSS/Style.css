@@ -1,0 +1,20 @@
+body {
+  background-color: #f3d1f4;
+
+}
+
+.halfdotted {
+  width: 20%;
+  border-style: dotted none none;
+  border-color: #522d5b;
+  border-width: 3px;
+}
+.fulldouble {
+  width: 100%;
+  border-style: double;
+  border-color: maroon;
+  border-width: 3px;
+}
+h3{color: maroon;}
+h1{color: maroon;}
+h1:hover{color: Blue;}
